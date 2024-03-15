@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "plugin:@tanstack/eslint-plugin-query/recommended",
+    "@rocketseat/eslint-config/next", 
+    "next/core-web-vitals"
+  ]
+}
