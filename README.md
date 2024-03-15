@@ -1,5 +1,5 @@
 
-# Desafio Football Tracker - Frontend
+# Desafio Pokemon List - Frontend
 
 O desafio consiste em desenvolver uma interface para listar os pokemons da API: [POKEMON API](https://pokeapi.co/).
 
